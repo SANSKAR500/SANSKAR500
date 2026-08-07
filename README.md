@@ -1,12 +1,8 @@
-<!-- ============================================================ -->
-<!--                SANSKAR SRIVASTAVA — GITHUB PROFILE          -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:8B0000&height=200&section=header&text=Sanskar%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Sanskar%20Srivastava&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Business%20Analyst%20%E2%80%A2%20Power%20BI%20Developer&descAlignY=56&descSize=17&fontFamily=Segoe%20UI"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Excel;Building+Dashboards+That+Drive+Decisions;Always+Learning%2C+Always+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Excel;Building+Dashboards+That+Drive+Decisions" />
 
 <br/>
 
@@ -14,92 +10,60 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://sanskar-srivastava-personal-data-analyst-portfoli.ai.studio">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/SANSKAR500">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SANSKAR500&label=Profile%20Views&color=E50914&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SANSKAR500&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                          ABOUT ME                            -->
-<!-- ============================================================ -->
-
 ## 🧭 About Me
 
-```yaml
-name: Sanskar Srivastava
-role: Data Analyst • Business Analyst • Power BI Developer
-education: B.Tech, Computer Science & Engineering — Chandigarh University (2022–2026)
-focus: Turning messy data into clear, decision-ready insights
-philosophy: "Good decisions come from good data."
-currently: Building dashboards, sharpening SQL, going deeper into DAX & statistics
-```
+I'm a **Data Analyst** and **Business Analyst** who turns messy, raw data into dashboards and reports that drive real business decisions. My work spans the full analytics pipeline — data cleaning, transformation, visualization, and storytelling — with a focus on **Power BI, SQL, Python, and Excel**.
 
-I'm a data-driven problem solver who enjoys bridging the gap between **raw numbers** and **business decisions**. My work sits at the intersection of analytics, visualization, and storytelling — I don't just report numbers, I explain what they mean and what to do next.
+I'm currently pursuing a **B.Tech in Computer Science & Engineering** at Chandigarh University, and have also published research in **Cybersecurity** alongside my core analytics work.
 
-📖 I've also published research in **Cybersecurity**, alongside my core analytics work.
+> "Good decisions come from good data."
 
 <br/>
-
-<!-- ============================================================ -->
-<!--                        TECH STACK                            -->
-<!-- ============================================================ -->
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=light"/>
+</p>
 
-**Languages & Tools**
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Analytics & BI**
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 <br/>
-
-<!-- ============================================================ -->
-<!--                          SKILLS                              -->
-<!-- ============================================================ -->
 
 ## 📊 Core Skills
 
-<table>
+<table width="100%">
 <tr>
-<th align="left">📈 Business Intelligence</th>
-<th align="left">🔍 Data Analysis</th>
-<th align="left">📋 Business Analysis</th>
+<th align="left" width="33%">📈 Business Intelligence</th>
+<th align="left" width="33%">🔍 Data Analysis</th>
+<th align="left" width="33%">📋 Business Analysis</th>
 </tr>
-<tr>
-<td valign="top">
+<tr valign="top">
+<td>
 
 - KPI Analysis & Reporting
 - Dashboard Development
@@ -108,7 +72,7 @@ I'm a data-driven problem solver who enjoys bridging the gap between **raw numbe
 - Data Cleaning
 
 </td>
-<td valign="top">
+<td>
 
 - Exploratory Data Analysis
 - Statistical Analysis
@@ -117,7 +81,7 @@ I'm a data-driven problem solver who enjoys bridging the gap between **raw numbe
 - Predictive Analytics (basics)
 
 </td>
-<td valign="top">
+<td>
 
 - Requirement Gathering
 - KPI Identification
@@ -131,28 +95,24 @@ I'm a data-driven problem solver who enjoys bridging the gap between **raw numbe
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                      FEATURED PROJECTS                       -->
-<!-- ============================================================ -->
-
 ## 🌟 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🎬 Netflix Analytics Dashboard
-Interactive dashboard analyzing content trends using Python, Power BI & Streamlit — with KPI cards, cleaned datasets, and clear business takeaways.
-
-`Python` `Power BI` `Streamlit` `Data Cleaning`
+Interactive Streamlit dashboard analyzing content trends, with KPI cards, cleaned datasets, and clear business takeaways.
+<br/><br/>
+`Python` `Power BI` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏨 Hotel Business Analytics
-End-to-end analysis of bookings, revenue, and cancellations to surface customer trends and support pricing/ops decisions.
-
-`Booking Analysis` `Revenue Dashboard` `Customer Trends`
+End-to-end analysis of bookings, revenue, and cancellations to surface customer trends and support pricing decisions.
+<br/><br/>
+`Data Analysis` `Revenue Dashboard`
 
 </td>
 </tr>
@@ -160,16 +120,16 @@ End-to-end analysis of bookings, revenue, and cancellations to surface customer 
 <td width="50%" valign="top">
 
 ### 📊 Sales Dashboard (Excel)
-Pivot-table-driven Excel dashboard with dynamic charts and KPI reporting for sales performance tracking.
-
-`Excel` `Pivot Tables` `KPI Reporting`
+Pivot-table-driven dashboard with dynamic charts and KPI reporting for sales performance tracking.
+<br/><br/>
+`Excel` `Pivot Tables` `KPIs`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 Power BI Business Dashboard
-Interactive multi-page report with custom DAX measures and a modeled data layer for business KPIs.
-
+Multi-page interactive report with custom DAX measures and a modeled data layer for business KPIs.
+<br/><br/>
 `Power BI` `DAX` `Data Modeling`
 
 </td>
@@ -178,8 +138,8 @@ Interactive multi-page report with custom DAX measures and a modeled data layer 
 <td width="50%" valign="top">
 
 ### 🗄️ SQL Analytics
-Business-focused SQL queries covering joins, CTEs, window functions, and stored procedures.
-
+Business-focused queries covering joins, CTEs, window functions, and stored procedures.
+<br/><br/>
 `SQL` `CTEs` `Window Functions`
 
 </td>
@@ -187,7 +147,7 @@ Business-focused SQL queries covering joins, CTEs, window functions, and stored 
 
 ### 🐍 Python Analytics
 Data cleaning, automation, and visualization workflows built with Pandas, NumPy, and Matplotlib.
-
+<br/><br/>
 `Pandas` `NumPy` `Automation`
 
 </td>
@@ -195,61 +155,47 @@ Data cleaning, automation, and visualization workflows built with Pandas, NumPy,
 </table>
 
 <details>
-<summary><b>🔎 More Projects</b> (click to expand)</summary>
-
+<summary><b>🔎 More Projects</b></summary>
 <br/>
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 **AI Virtual Painter** | Real-time hand-tracking painting app | `Python` `OpenCV` `MediaPipe` |
-| 🌱 **House Plant E-Commerce Site** | Responsive storefront concept | `HTML` `CSS` `JavaScript` |
-| 🎨 **Anime Wallpaper Website** | Responsive UI gallery site | `HTML` `CSS` `JavaScript` |
-| 🏨 **Hotel Reservation System** | Desktop booking system with DB integration | `Java` `MySQL` `JDBC` `Swing` |
+| 🤖 AI Virtual Painter | Real-time hand-tracking painting app | `Python` `OpenCV` `MediaPipe` |
+| 🌱 House Plant E-Commerce Site | Responsive storefront concept | `HTML` `CSS` `JavaScript` |
+| 🎨 Anime Wallpaper Website | Responsive UI gallery site | `HTML` `CSS` `JavaScript` |
+| 🏨 Hotel Reservation System | Desktop booking system with DB integration | `Java` `MySQL` `JDBC` `Swing` |
 
 </details>
 
-> 💡 Tip for you: link each project title above directly to its repo, e.g. `### [🎬 Netflix Analytics Dashboard](https://github.com/SANSKAR500/repo-name)` — makes the whole card clickable-feeling and far more professional for recruiters.
-
 <br/>
-
-<!-- ============================================================ -->
-<!--                     GITHUB ANALYTICS                         -->
-<!-- ============================================================ -->
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SANSKAR500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANSKAR500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SANSKAR500&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANSKAR500&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=333333"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SANSKAR500&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=SANSKAR500&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANSKAR500&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SANSKAR500&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SANSKAR500&theme=flat&no-frame=true&row=1&column=6"/>
 </p>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                    LEARNING & EDUCATION                      -->
-<!-- ============================================================ -->
-
 ## 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/Cloud%20for%20Analytics-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20in%20Analytics-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced%20Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistical%20Modeling-E50914?style=flat-square"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Cloud%20for%20Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20in%20Analytics-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Statistical%20Modeling-2563EB?style=for-the-badge"/>
+</p>
 
-<br/><br/>
+<br/>
 
 ## 🎓 Education
 
@@ -257,10 +203,6 @@ Data cleaning, automation, and visualization workflows built with Pandas, NumPy,
 Chandigarh University · 2022 – 2026
 
 <br/>
-
-<!-- ============================================================ -->
-<!--                          CONNECT                             -->
-<!-- ============================================================ -->
 
 ## 🌎 Let's Connect
 
@@ -278,8 +220,8 @@ Chandigarh University · 2022 – 2026
 
 <br/>
 
-⭐ **If you like what you see, consider starring my repositories — it genuinely helps!**
+⭐ **If you like what you see, consider starring my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:E50914&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
