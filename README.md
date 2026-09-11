@@ -75,32 +75,43 @@
 <td width="33%" valign="top" align="center">
 <h3>📈 Business Intelligence</h3>
 <p align="left">
-<strong>KPI Analysis</strong> — 95%<br/>
-<strong>Dashboard Development</strong> — 92%<br/>
-<strong>Data Storytelling</strong> — 90%<br/>
-<strong>ETL & Transformation</strong> — 88%<br/>
-<strong>Data Cleaning</strong> — 93%
+<b>KPI Analysis</b><br/>Business KPI definition, tracking & interpretation<br/><br/>
+<b>Dashboard Development</b><br/>Power BI dashboards, DAX measures & reporting<br/><br/>
+<b>Data Storytelling</b><br/>Turning analysis into clear business insights<br/><br/>
+<b>ETL & Transformation</b><br/>Power Query, Python & n8n pipelines<br/><br/>
+<b>Data Cleaning</b><br/>Validation, deduplication & quality checks
 </p>
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🔍 Data Analysis</h3>
 <p align="left">
-<strong>Exploratory Analysis</strong> — 94%<br/>
-<strong>Statistical Analysis</strong> — 85%<br/>
-<strong>Trend Analytics</strong> — 90%<br/>
-<strong>Business Analytics</strong> — 88%<br/>
-<strong>Predictive Analysis</strong> — 75%
+<b>Exploratory Analysis</b><br/>EDA, distributions, trends & segmentation<br/><br/>
+<b>Statistical Analysis</b><br/>Hypothesis testing, correlation & comparisons<br/><br/>
+<b>Trend Analytics</b><br/>Time-series patterns & performance changes<br/><br/>
+<b>Business Analytics</b><br/>Customer, sales, salary & operational analysis<br/><br/>
+<b>Predictive Analysis</b><br/>Classification, regression & model evaluation
 </p>
 </td>
 <td width="33%" valign="top" align="center">
 <h3>⚙️ Automation</h3>
 <p align="left">
-<strong>n8n Workflows</strong> — 88%<br/>
-<strong>AI Integrations</strong> — 85%<br/>
-<strong>Data Pipelines</strong> — 87%<br/>
-<strong>Process Automation</strong> — 90%
+<b>n8n Workflows</b><br/>Triggers, branching, integrations & notifications<br/><br/>
+<b>Data Pipelines</b><br/>Extract → clean → validate → load workflows<br/><br/>
+<b>AI Integrations</b><br/>AI-assisted extraction and workflow steps<br/><br/>
+<b>Process Automation</b><br/>Reducing repetitive manual business tasks
 </p>
 </td>
+</tr>
+</table>
+
+<br/>
+
+<table width="95%">
+<tr>
+<td align="center"><b>📊 Power BI</b><br/>Dashboarding • DAX • Power Query • Data Modeling</td>
+<td align="center"><b>🐍 Python</b><br/>Pandas • NumPy • scikit-learn • EDA</td>
+<td align="center"><b>🗄️ SQL</b><br/>Querying • Data Extraction • Relational Analysis</td>
+<td align="center"><b>⚙️ n8n</b><br/>ETL • Integrations • Business Automation</td>
 </tr>
 </table>
 </div>
@@ -116,13 +127,13 @@
 <tr>
 <td width="50%" valign="top">
 <h3>💰 Mutual Fund Analytics & Insights</h3>
-<p>End-to-end analytics across 793 mutual fund schemes using Python for cleaning, normalization and composite scoring, Excel for ranked exports, and Power BI for interactive analysis of returns, costs, risk and fund categories.</p>
+<p>End-to-end analytics across <b>793 mutual fund schemes</b> using Python for cleaning, normalization and composite scoring, Excel for ranked exports, and Power BI for interactive analysis.</p>
 <p><code>Python</code> <code>Pandas</code> <code>Excel</code> <code>Power BI</code> <code>DAX</code></p>
 <p><a href="https://github.com/SANSKAR500/Mutual-Funds-insights-Overview"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🧾 Automated Invoice Processing</h3>
-<p>n8n workflow that monitors Google Drive invoices, extracts fields with AI, validates totals, checks duplicates, stores validated records in MySQL, moves processed files and sends notifications.</p>
+<p>n8n workflow that monitors Google Drive invoices, extracts fields with AI, validates totals, checks duplicates, stores validated records in MySQL and sends notifications.</p>
 <p><code>n8n</code> <code>AI</code> <code>MySQL</code> <code>Google Drive</code> <code>Gmail</code></p>
 <p><a href="https://github.com/SANSKAR500/Automated-Invoice-Processing-Data-Entry-System"><strong>🚀 View Project →</strong></a></p>
 </td>
@@ -130,13 +141,13 @@
 <tr>
 <td width="50%" valign="top">
 <h3>📊 Automatic Sales Analytics</h3>
-<p>Upload a sales CSV/Excel file → automatic cleaning → KPI calculation → charts → written analysis report, available as both a Streamlit dashboard and Jupyter workflow.</p>
+<p>Upload a sales CSV/Excel file → automatic cleaning → KPI calculation → charts → written analysis report, available through Streamlit and Jupyter.</p>
 <p><code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>Jupyter</code></p>
 <p><a href="https://github.com/SANSKAR500/Automatic-Sales-Analytics-Project"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🎬 MovieIQ — Movie Success Analytics</h3>
-<p>Interactive ML dashboard with EDA, statistical testing, Random Forest classification and live movie-success predictions.</p>
+<p>Interactive ML dashboard with EDA, statistical testing, Random Forest classification and movie-success predictions.</p>
 <p><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Pandas</code></p>
 <p><a href="https://github.com/SANSKAR500/MovieIQ-Movie-Success-Revenue-Analytics"><strong>🚀 View Project →</strong></a></p>
 </td>
@@ -164,7 +175,7 @@
 </td>
 <td width="50%" valign="top">
 <h3>🔄 CSV Cleaning ETL Pipeline</h3>
-<p>Automated n8n ETL pipeline that ingests CSV attachments from Gmail, cleans and validates records with Python, deduplicates by order ID, loads to Supabase/Postgres and Google Sheets, and handles failure cases with notifications.</p>
+<p>Automated n8n ETL pipeline that ingests CSV attachments from Gmail, cleans and validates records with Python, deduplicates by order ID, and loads to Supabase/Postgres and Google Sheets.</p>
 <p><code>n8n</code> <code>Python</code> <code>Supabase</code> <code>Postgres</code> <code>Google Sheets</code></p>
 <p><a href="https://github.com/SANSKAR500/csv-cleaning-etl-pipeline-n8n"><strong>🚀 View Project →</strong></a></p>
 </td>
@@ -172,13 +183,13 @@
 <tr>
 <td width="50%" valign="top">
 <h3>🏨 Hotel Booking Analytics</h3>
-<p>Analysis of roughly 119K bookings covering seasonality, lead time, stay duration and cancellation behaviour, with a Streamlit app.</p>
-<p><code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>Seaborn</code></p>
+<p>Analysis of roughly <b>119K bookings</b> covering seasonality, lead time, stay duration and cancellation behaviour, with a Streamlit app.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Streamlit</code></p>
 <p><a href="https://github.com/SANSKAR500/Hotel-Booking-Data-Analysis-Python-"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>💼 Data Jobs Salary & Skills</h3>
-<p>Excel analysis of salaries, regions, job skills and skill-to-pay relationships using Power Query, PivotTables, Power Pivot and DAX.</p>
+<p>Excel analysis of salary, geography and skill-demand patterns using Power Query, PivotTables, Power Pivot and DAX.</p>
 <p><code>Excel</code> <code>Power Query</code> <code>Power Pivot</code> <code>DAX</code></p>
 <p><a href="https://github.com/SANSKAR500/sales-performance-dashboard"><strong>🚀 View Project →</strong></a></p>
 </td>
@@ -203,7 +214,7 @@
 <tr><td>🎨 Wallpaper Website</td><td>Responsive wallpaper and blog site</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🌐 Portfolio Website</td><td>Personal portfolio website</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🏨 Hotel Reservation System</td><td>Desktop booking system with database integration</td><td><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Swing</code></td></tr>
-<tr><td>🚚 Last-Mile Delivery Analytics</td><td>Logistics analytics and optimization project; currently at strategic planning stage with a defined KPI and modeling roadmap.</td><td><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>OR-Tools</code></td></tr>
+<tr><td>🚚 Last-Mile Delivery Analytics</td><td>Logistics analytics and optimization project; currently at strategic planning stage.</td><td><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>OR-Tools</code></td></tr>
 <tr><td>📧 AI Cold Email Outreach</td><td>n8n-based outreach automation project</td><td><code>n8n</code> <code>AI</code> <code>Gmail</code></td></tr>
 </table>
 
@@ -220,27 +231,31 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <h3>📌 Repository Activity</h3>
-<p><strong>111</strong> commits in the last year</p>
-<p><strong>0</strong> pull requests</p>
-<p><strong>0</strong> issues</p>
-<p><strong>0</strong> stars earned</p>
+<p><b>15+ public repositories</b></p>
+<p>Active project portfolio spanning analytics, BI, automation and web projects.</p>
+<p><a href="https://github.com/SANSKAR500?tab=repositories"><strong>View all repositories →</strong></a></p>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>💻 Most Used Languages</h3>
-<p><strong>Jupyter Notebook</strong> — 86.39%</p>
-<p><strong>TypeScript</strong> — 6.87%</p>
-<p><strong>Python</strong> — 3.78%</p>
-<p><strong>HTML</strong> — 1.48%</p>
-<p><strong>CSS</strong> — 1.39%</p>
-<p><strong>JavaScript</strong> — 0.10%</p>
+<h3>🎯 Analytics Focus</h3>
+<p><b>Power BI</b> • <b>Python</b> • <b>SQL</b> • <b>Excel</b></p>
+<p>Dashboards • ETL • EDA • Business Analytics • Automation</p>
+<p><a href="https://github.com/SANSKAR500"><strong>Explore my GitHub →</strong></a></p>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<p><strong>📌 Note:</strong> The analytics above are generated from your current GitHub repository data. This section intentionally avoids external contribution-graph and trophy images so the profile does not show broken-image placeholders.</p>
+<table width="95%">
+<tr>
+<td align="center"><b>💰 Finance</b><br/>Mutual funds • customer value • returns • risk</td>
+<td align="center"><b>🛒 Sales</b><br/>Revenue • AOV • RFM • customer behaviour</td>
+<td align="center"><b>📉 Customer</b><br/>Churn • retention • segmentation</td>
+<td align="center"><b>⚙️ Automation</b><br/>ETL • n8n • AI-assisted workflows</td>
+</tr>
+</table>
 
+<p><sub>Analytics highlights are intentionally based on the projects and repository content in this profile rather than stale third-party counters.</sub></p>
 </div>
 
 <br/>
