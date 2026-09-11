@@ -115,6 +115,14 @@ Process Automation ███████████████████░�
 <table width="95%">
 <tr>
 <td width="50%" valign="top">
+### 💰 Mutual Fund Analytics & Insights
+> End-to-end analytics across 793 mutual fund schemes using Python for cleaning, normalization and composite scoring, Excel for ranked exports, and Power BI for interactive analysis of returns, costs, risk and fund categories.
+
+`Python` `Pandas` `Excel` `Power BI` `DAX`
+
+[**🚀 View Project →**](https://github.com/SANSKAR500/Mutual-Funds-insights-Overview)
+</td>
+<td width="50%" valign="top">
 ### 🧾 Automated Invoice Processing
 > n8n workflow that monitors Google Drive invoices, extracts fields with AI, validates totals, checks duplicates, stores validated records in MySQL, moves processed files and sends notifications.
 
@@ -122,16 +130,16 @@ Process Automation ███████████████████░�
 
 [**🚀 View Project →**](https://github.com/SANSKAR500/Automated-Invoice-Processing-Data-Entry-System)
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 ### 📊 Automatic Sales Analytics
-> Upload a sales CSV/Excel file → automatic cleaning → KPI calculation → charts → written analysis report.
+> Upload a sales CSV/Excel file → automatic cleaning → KPI calculation → charts → written analysis report, available as both a Streamlit dashboard and Jupyter workflow.
 
 `Python` `Pandas` `Streamlit` `Jupyter`
 
 [**🚀 View Project →**](https://github.com/SANSKAR500/Automatic-Sales-Analytics-Project)
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 ### 🎬 MovieIQ — Movie Success Analytics
 > Interactive ML dashboard with EDA, statistical testing, Random Forest classification and live movie-success predictions.
@@ -139,14 +147,6 @@ Process Automation ███████████████████░�
 `Python` `Streamlit` `scikit-learn` `Pandas`
 
 [**🚀 View Project →**](https://github.com/SANSKAR500/MovieIQ-Movie-Success-Revenue-Analytics)
-</td>
-<td width="50%" valign="top">
-### 👤 RegisterFlow — n8n User Onboarding
-> Automated form-to-Sheets/Airtable onboarding workflow with admin alerts, welcome emails and processed-record tracking.
-
-`n8n` `Google Sheets` `Airtable` `Gmail`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/RegisterFlow-Automated-User-Onboarding-with-n8n)
 </td>
 </tr>
 <tr>
@@ -177,12 +177,30 @@ Process Automation ███████████████████░�
 [**🚀 View Project →**](https://github.com/SANSKAR500/Churn_Analysis-IBM)
 </td>
 <td width="50%" valign="top">
+### 🔄 CSV Cleaning ETL Pipeline
+> Automated n8n ETL pipeline that ingests CSV attachments from Gmail, cleans and validates records with Python, deduplicates by order ID, loads to Supabase/Postgres and Google Sheets, and handles failure cases with notifications.
+
+`n8n` `Python` `Supabase` `Postgres` `Google Sheets`
+
+[**🚀 View Project →**](https://github.com/SANSKAR500/csv-cleaning-etl-pipeline-n8n)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 ### 🏨 Hotel Booking Analytics
 > Analysis of roughly 119K bookings covering seasonality, lead time, stay duration and cancellation behaviour, with a Streamlit app.
 
 `Python` `Pandas` `Streamlit` `Seaborn`
 
 [**🚀 View Project →**](https://github.com/SANSKAR500/Hotel-Booking-Data-Analysis-Python-)
+</td>
+<td width="50%" valign="top">
+### 💼 Data Jobs Salary & Skills
+> Excel analysis of salaries, regions, job skills and skill-to-pay relationships using Power Query, PivotTables, Power Pivot and DAX.
+
+`Excel` `Power Query` `Power Pivot` `DAX`
+
+[**🚀 View Project →**](https://github.com/SANSKAR500/sales-performance-dashboard)
 </td>
 </tr>
 </table>
@@ -200,12 +218,13 @@ Process Automation ███████████████████░�
 <tr><td>📺 Netflix Analysis</td><td>Content, trends and platform analysis</td><td><code>Python</code> <code>Power BI</code> <code>Pandas</code></td></tr>
 <tr><td>💰 Salary Dashboard</td><td>Interactive salary-focused analytics dashboard</td><td><code>Python</code> <code>Streamlit</code></td></tr>
 <tr><td>🚲 Bike Sales Dashboard</td><td>Excel sales performance dashboard</td><td><code>Excel</code> <code>Pivot Tables</code></td></tr>
-<tr><td>💼 Data Jobs Salary & Skills</td><td>Salary, regional pay and skill-demand analysis</td><td><code>Excel</code> <code>Power Query</code> <code>DAX</code></td></tr>
 <tr><td>🤖 AI Virtual Painter</td><td>Real-time hand-tracking computer-vision painting app</td><td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></td></tr>
 <tr><td>🌱 House Plant E-Commerce</td><td>Responsive storefront concept</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🎨 Wallpaper Website</td><td>Responsive wallpaper and blog site</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🌐 Portfolio Website</td><td>Personal portfolio website</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🏨 Hotel Reservation System</td><td>Desktop booking system with database integration</td><td><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Swing</code></td></tr>
+<tr><td>🚚 Last-Mile Delivery Analytics</td><td>Logistics analytics and optimization project; currently at strategic planning stage with a defined KPI and modeling roadmap.</td><td><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>OR-Tools</code></td></tr>
+<tr><td>📧 AI Cold Email Outreach</td><td>n8n-based outreach automation project</td><td><code>n8n</code> <code>AI</code> <code>Gmail</code></td></tr>
 </table>
 
 </details>
@@ -269,29 +288,27 @@ Process Automation ███████████████████░�
     2022 ──────────────────────────────────────────────► 2026
            │                                              │
            │  🎓 B.Tech in Computer Science & Engineering  │
-           │     Chandigarh University                     │
-           │     📍 Punjab, India                          │
-           │     🟢 Currently Pursuing                     │
+           │    Chandigarh University                     │
            │                                              │
-           └──────────────────────────────────────────────┘
+           │  🔬 Research: Cybersecurity                  │
+           │                                              │
+    Present│  📊 Building data & automation projects       │
 ```
 
 </div>
 
 <br/>
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
-<br/>
 
-## 📬 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sanskar-srivastava-3a551024"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/SANSKAR500"><img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://sanskar-srivastava-personal-data-analyst-portfoli.ai.studio"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sanskar-srivastava-3a551024"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sanskar-srivastava-personal-data-analyst-portfoli.ai.studio"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/SANSKAR500"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:11112e,100:1a1a3e&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=00d4ff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:11112e,100:1a1a3e&height=120&section=footer" width="100%"/>
 
 </div>
