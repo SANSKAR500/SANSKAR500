@@ -72,34 +72,34 @@
 <div align="center">
 <table width="95%">
 <tr>
-<td width="33%" align="center">
-### 📈 Business Intelligence
-```text
-KPI Analysis       ████████████████████░  95%
-Dashboard Dev      ███████████████████░░░  92%
-Data Storytelling  ███████████████████░░░  90%
-ETL & Transform    ██████████████████░░░░  88%
-Data Cleaning      ████████████████████░  93%
-```
+<td width="33%" valign="top" align="center">
+<h3>📈 Business Intelligence</h3>
+<p align="left">
+<strong>KPI Analysis</strong> — 95%<br/>
+<strong>Dashboard Development</strong> — 92%<br/>
+<strong>Data Storytelling</strong> — 90%<br/>
+<strong>ETL & Transformation</strong> — 88%<br/>
+<strong>Data Cleaning</strong> — 93%
+</p>
 </td>
-<td width="33%" align="center">
-### 🔍 Data Analysis
-```text
-Exploratory DA     ████████████████████░  94%
-Statistical An.    █████████████████░░░░░  85%
-Trend Analytics    ███████████████████░░░  90%
-Business Analytics ██████████████████░░░░  88%
-Predictive An.     ███████████████░░░░░░░  75%
-```
+<td width="33%" valign="top" align="center">
+<h3>🔍 Data Analysis</h3>
+<p align="left">
+<strong>Exploratory Analysis</strong> — 94%<br/>
+<strong>Statistical Analysis</strong> — 85%<br/>
+<strong>Trend Analytics</strong> — 90%<br/>
+<strong>Business Analytics</strong> — 88%<br/>
+<strong>Predictive Analysis</strong> — 75%
+</p>
 </td>
-<td width="33%" align="center">
-### ⚙️ Automation
-```text
-n8n Workflows      ██████████████████░░░░  88%
-AI Integrations    █████████████████░░░░░  85%
-Data Pipelines     ██████████████████░░░░  87%
-Process Automation ███████████████████░░░  90%
-```
+<td width="33%" valign="top" align="center">
+<h3>⚙️ Automation</h3>
+<p align="left">
+<strong>n8n Workflows</strong> — 88%<br/>
+<strong>AI Integrations</strong> — 85%<br/>
+<strong>Data Pipelines</strong> — 87%<br/>
+<strong>Process Automation</strong> — 90%
+</p>
 </td>
 </tr>
 </table>
@@ -236,15 +236,22 @@ Process Automation ███████████████████░�
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<table width="95%">
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/SANSKAR500">
-<img src="./profile/stats.svg" alt="GitHub Statistics" width="49%"/>
+<img src="./profile/stats.svg" alt="GitHub Statistics" width="100%"/>
 </a>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/SANSKAR500">
-<img src="./profile/top-langs.svg" alt="GitHub Technology Statistics" width="49%"/>
+<img src="./profile/top-langs.svg" alt="Most Used Languages" width="100%"/>
 </a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/SANSKAR500">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANSKAR500&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=00D4FF&line=00D4FF&point=FF6B9D&area=true&area_color=00D4FF&radius=16" width="95%" alt="Contribution Graph"/>
@@ -258,7 +265,7 @@ Process Automation ███████████████████░�
 
 <br/><br/>
 
-<sub>✅ Primary stats cards are stored in this repository, so they render directly from GitHub. GitHub Actions refreshes them automatically.</sub>
+<sub>✅ The primary statistics cards are stored in this repository and can render directly from GitHub.</sub>
 
 </div>
 
