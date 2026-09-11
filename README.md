@@ -115,92 +115,72 @@
 <table width="95%">
 <tr>
 <td width="50%" valign="top">
-### 💰 Mutual Fund Analytics & Insights
-> End-to-end analytics across 793 mutual fund schemes using Python for cleaning, normalization and composite scoring, Excel for ranked exports, and Power BI for interactive analysis of returns, costs, risk and fund categories.
-
-`Python` `Pandas` `Excel` `Power BI` `DAX`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/Mutual-Funds-insights-Overview)
+<h3>💰 Mutual Fund Analytics & Insights</h3>
+<p>End-to-end analytics across 793 mutual fund schemes using Python for cleaning, normalization and composite scoring, Excel for ranked exports, and Power BI for interactive analysis of returns, costs, risk and fund categories.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Excel</code> <code>Power BI</code> <code>DAX</code></p>
+<p><a href="https://github.com/SANSKAR500/Mutual-Funds-insights-Overview"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-### 🧾 Automated Invoice Processing
-> n8n workflow that monitors Google Drive invoices, extracts fields with AI, validates totals, checks duplicates, stores validated records in MySQL, moves processed files and sends notifications.
-
-`n8n` `AI` `MySQL` `Google Drive` `Gmail`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/Automated-Invoice-Processing-Data-Entry-System)
+<h3>🧾 Automated Invoice Processing</h3>
+<p>n8n workflow that monitors Google Drive invoices, extracts fields with AI, validates totals, checks duplicates, stores validated records in MySQL, moves processed files and sends notifications.</p>
+<p><code>n8n</code> <code>AI</code> <code>MySQL</code> <code>Google Drive</code> <code>Gmail</code></p>
+<p><a href="https://github.com/SANSKAR500/Automated-Invoice-Processing-Data-Entry-System"><strong>🚀 View Project →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-### 📊 Automatic Sales Analytics
-> Upload a sales CSV/Excel file → automatic cleaning → KPI calculation → charts → written analysis report, available as both a Streamlit dashboard and Jupyter workflow.
-
-`Python` `Pandas` `Streamlit` `Jupyter`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/Automatic-Sales-Analytics-Project)
+<h3>📊 Automatic Sales Analytics</h3>
+<p>Upload a sales CSV/Excel file → automatic cleaning → KPI calculation → charts → written analysis report, available as both a Streamlit dashboard and Jupyter workflow.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>Jupyter</code></p>
+<p><a href="https://github.com/SANSKAR500/Automatic-Sales-Analytics-Project"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-### 🎬 MovieIQ — Movie Success Analytics
-> Interactive ML dashboard with EDA, statistical testing, Random Forest classification and live movie-success predictions.
-
-`Python` `Streamlit` `scikit-learn` `Pandas`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/MovieIQ-Movie-Success-Revenue-Analytics)
+<h3>🎬 MovieIQ — Movie Success Analytics</h3>
+<p>Interactive ML dashboard with EDA, statistical testing, Random Forest classification and live movie-success predictions.</p>
+<p><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Pandas</code></p>
+<p><a href="https://github.com/SANSKAR500/MovieIQ-Movie-Success-Revenue-Analytics"><strong>🚀 View Project →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-### 🛒 Shopify Sales Analysis
-> Power BI analysis of revenue, AOV, customer behaviour, repeat buyers, RFM segments, retention and customer value using a star schema.
-
-`Power BI` `DAX` `Power Query` `Data Modeling`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/shopify-dashboard)
+<h3>🛒 Shopify Sales Analysis</h3>
+<p>Power BI analysis of revenue, AOV, customer behaviour, repeat buyers, RFM segments, retention and customer value using a star schema.</p>
+<p><code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Data Modeling</code></p>
+<p><a href="https://github.com/SANSKAR500/shopify-dashboard"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-### 🛍️ Quantium Retail Analytics
-> Retail case study covering customer purchasing behaviour, segmentation, control-store selection, uplift measurement and statistical testing.
-
-`Python` `Pandas` `SciPy` `Jupyter`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/Quantium-job-simulation-forage)
+<h3>🛍️ Quantium Retail Analytics</h3>
+<p>Retail case study covering customer purchasing behaviour, segmentation, control-store selection, uplift measurement and statistical testing.</p>
+<p><code>Python</code> <code>Pandas</code> <code>SciPy</code> <code>Jupyter</code></p>
+<p><a href="https://github.com/SANSKAR500/Quantium-job-simulation-forage"><strong>🚀 View Project →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-### 📉 Telco Customer Churn Analysis
-> End-to-end churn analysis and prediction using the IBM Telco dataset with model comparison and business recommendations.
-
-`Python` `Pandas` `scikit-learn` `Matplotlib`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/Churn_Analysis-IBM)
+<h3>📉 Telco Customer Churn Analysis</h3>
+<p>End-to-end churn analysis and prediction using the IBM Telco dataset with model comparison and business recommendations.</p>
+<p><code>Python</code> <code>Pandas</code> <code>scikit-learn</code> <code>Matplotlib</code></p>
+<p><a href="https://github.com/SANSKAR500/Churn_Analysis-IBM"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-### 🔄 CSV Cleaning ETL Pipeline
-> Automated n8n ETL pipeline that ingests CSV attachments from Gmail, cleans and validates records with Python, deduplicates by order ID, loads to Supabase/Postgres and Google Sheets, and handles failure cases with notifications.
-
-`n8n` `Python` `Supabase` `Postgres` `Google Sheets`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/csv-cleaning-etl-pipeline-n8n)
+<h3>🔄 CSV Cleaning ETL Pipeline</h3>
+<p>Automated n8n ETL pipeline that ingests CSV attachments from Gmail, cleans and validates records with Python, deduplicates by order ID, loads to Supabase/Postgres and Google Sheets, and handles failure cases with notifications.</p>
+<p><code>n8n</code> <code>Python</code> <code>Supabase</code> <code>Postgres</code> <code>Google Sheets</code></p>
+<p><a href="https://github.com/SANSKAR500/csv-cleaning-etl-pipeline-n8n"><strong>🚀 View Project →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-### 🏨 Hotel Booking Analytics
-> Analysis of roughly 119K bookings covering seasonality, lead time, stay duration and cancellation behaviour, with a Streamlit app.
-
-`Python` `Pandas` `Streamlit` `Seaborn`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/Hotel-Booking-Data-Analysis-Python-)
+<h3>🏨 Hotel Booking Analytics</h3>
+<p>Analysis of roughly 119K bookings covering seasonality, lead time, stay duration and cancellation behaviour, with a Streamlit app.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>Seaborn</code></p>
+<p><a href="https://github.com/SANSKAR500/Hotel-Booking-Data-Analysis-Python-"><strong>🚀 View Project →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-### 💼 Data Jobs Salary & Skills
-> Excel analysis of salaries, regions, job skills and skill-to-pay relationships using Power Query, PivotTables, Power Pivot and DAX.
-
-`Excel` `Power Query` `Power Pivot` `DAX`
-
-[**🚀 View Project →**](https://github.com/SANSKAR500/sales-performance-dashboard)
+<h3>💼 Data Jobs Salary & Skills</h3>
+<p>Excel analysis of salaries, regions, job skills and skill-to-pay relationships using Power Query, PivotTables, Power Pivot and DAX.</p>
+<p><code>Excel</code> <code>Power Query</code> <code>Power Pivot</code> <code>DAX</code></p>
+<p><a href="https://github.com/SANSKAR500/sales-performance-dashboard"><strong>🚀 View Project →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -239,33 +219,27 @@
 <table width="95%">
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/SANSKAR500">
-<img src="./profile/stats.svg" alt="GitHub Statistics" width="100%"/>
-</a>
+<h3>📌 Repository Activity</h3>
+<p><strong>111</strong> commits in the last year</p>
+<p><strong>0</strong> pull requests</p>
+<p><strong>0</strong> issues</p>
+<p><strong>0</strong> stars earned</p>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/SANSKAR500">
-<img src="./profile/top-langs.svg" alt="Most Used Languages" width="100%"/>
-</a>
+<h3>💻 Most Used Languages</h3>
+<p><strong>Jupyter Notebook</strong> — 86.39%</p>
+<p><strong>TypeScript</strong> — 6.87%</p>
+<p><strong>Python</strong> — 3.78%</p>
+<p><strong>HTML</strong> — 1.48%</p>
+<p><strong>CSS</strong> — 1.39%</p>
+<p><strong>JavaScript</strong> — 0.10%</p>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<a href="https://github.com/SANSKAR500">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANSKAR500&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=00D4FF&line=00D4FF&point=FF6B9D&area=true&area_color=00D4FF&radius=16" width="95%" alt="Contribution Graph"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SANSKAR500">
-<img src="https://github-profile-trophy.vercel.app/?username=SANSKAR500&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
-</a>
-
-<br/><br/>
-
-<sub>✅ The primary statistics cards are stored in this repository and can render directly from GitHub.</sub>
+<p><strong>📌 Note:</strong> The analytics above are generated from your current GitHub repository data. This section intentionally avoids external contribution-graph and trophy images so the profile does not show broken-image placeholders.</p>
 
 </div>
 
