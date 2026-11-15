@@ -33,7 +33,8 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  👤 Sanskar Srivastava                                      │
 │  🎯 Data Analyst | Business Analyst | Power BI Developer    │
-│  🎓 B.Tech CSE — Chandigarh University (2022-2026)          │
+│  🎓 B.Tech CSE — Chandigarh University (Graduated 2026)     │
+│  💼 Open to Data Analyst roles                              │
 │  📍 India                                                   │
 │  🔬 Published Researcher in Cybersecurity                   │
 │                                                             │
@@ -118,6 +119,43 @@
 
 <br/>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
+<br/>
+
+## 🆕 Latest Work
+
+<div align="center">
+<table width="95%">
+<tr>
+<td width="50%" valign="top">
+<h3>🎾 Tennis Game Analytics <sup>🆕</sup></h3>
+<p>Tennis match analytics built on Sportradar sports data.</p>
+<p><code>Python</code> <code>Sportradar API</code></p>
+<p><a href="https://github.com/SANSKAR500/game-analytics-tennis-sportradar"><strong>🚀 View Project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏏 Cricbuzz Analysis <sup>🆕</sup></h3>
+<p>Analysis of cricket match and player performance data from Cricbuzz.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Jupyter</code></p>
+<p><a href="https://github.com/SANSKAR500/Cricbuzz_Analysis"><strong>🚀 View Project →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏠 Real Estate Investment Advisor <sup>🆕</sup></h3>
+<p>Predicts property profitability and future value to support investment decisions.</p>
+<p><code>Python</code> <code>Machine Learning</code> <code>Streamlit</code></p>
+<p><a href="https://github.com/SANSKAR500/Real-Estate-Investment-Advisor-Predicting-Property-Profitability-Future-Value"><strong>🚀 View Project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>💹 Bloomberg P&L Data Extraction <sup>🆕</sup></h3>
+<p>Extraction and cleaning of Bloomberg-style P&amp;L data for financial reporting.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Excel</code> <code>Power BI</code></p>
+<p><a href="https://github.com/SANSKAR500/Bloomberg-P-L-Data-Extraction"><strong>🚀 View Project →</strong></a></p>
+</td>
+</tr>
+</table>
+</div>
+
 <br/>
 
 ## 🚀 Featured Projects
@@ -206,16 +244,17 @@
 
 <table width="95%">
 <tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech Stack</th></tr>
+<tr><td>⚡ RegisterFlow Onboarding</td><td>n8n workflow automating user registration and onboarding</td><td><code>n8n</code> <code>Automation</code></td></tr>
 <tr><td>📺 Netflix Analysis</td><td>Content, trends and platform analysis</td><td><code>Python</code> <code>Power BI</code> <code>Pandas</code></td></tr>
 <tr><td>💰 Salary Dashboard</td><td>Interactive salary-focused analytics dashboard</td><td><code>Python</code> <code>Streamlit</code></td></tr>
 <tr><td>🚲 Bike Sales Dashboard</td><td>Excel sales performance dashboard</td><td><code>Excel</code> <code>Pivot Tables</code></td></tr>
+<tr><td>🚚 Last-Mile Delivery Analytics</td><td>Logistics analytics and optimization project; currently at strategic planning stage.</td><td><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>OR-Tools</code></td></tr>
+<tr><td>📧 AI Cold Email Outreach</td><td>n8n-based outreach automation project</td><td><code>n8n</code> <code>AI</code> <code>Gmail</code></td></tr>
 <tr><td>🤖 AI Virtual Painter</td><td>Real-time hand-tracking computer-vision painting app</td><td><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></td></tr>
+<tr><td>🏨 Hotel Reservation System</td><td>Desktop booking system with database integration</td><td><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Swing</code></td></tr>
 <tr><td>🌱 House Plant E-Commerce</td><td>Responsive storefront concept</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🎨 Wallpaper Website</td><td>Responsive wallpaper and blog site</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
 <tr><td>🌐 Portfolio Website</td><td>Personal portfolio website</td><td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td></tr>
-<tr><td>🏨 Hotel Reservation System</td><td>Desktop booking system with database integration</td><td><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Swing</code></td></tr>
-<tr><td>🚚 Last-Mile Delivery Analytics</td><td>Logistics analytics and optimization project; currently at strategic planning stage.</td><td><code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>OR-Tools</code></td></tr>
-<tr><td>📧 AI Cold Email Outreach</td><td>n8n-based outreach automation project</td><td><code>n8n</code> <code>AI</code> <code>Gmail</code></td></tr>
 </table>
 
 </details>
@@ -224,27 +263,21 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <div align="center">
-<table width="95%">
-<tr>
-<td width="50%" align="center" valign="top">
-<h3>📌 Repository Activity</h3>
-<p><b>15+ public repositories</b></p>
-<p>Active project portfolio spanning analytics, BI, automation and web projects.</p>
-<p><a href="https://github.com/SANSKAR500?tab=repositories"><strong>View all repositories →</strong></a></p>
-</td>
-<td width="50%" align="center" valign="top">
-<h3>🎯 Analytics Focus</h3>
-<p><b>Power BI</b> • <b>Python</b> • <b>SQL</b> • <b>Excel</b></p>
-<p>Dashboards • ETL • EDA • Business Analytics • Automation</p>
-<p><a href="https://github.com/SANSKAR500"><strong>Explore my GitHub →</strong></a></p>
-</td>
-</tr>
-</table>
 
-<br/>
+<p><sub>Refreshed automatically every day by a GitHub Action (<a href="https://github.com/SANSKAR500/SANSKAR500/blob/main/.github/workflows/update-stats.yml">workflow</a>).</sub></p>
+
+<img src="https://raw.githubusercontent.com/SANSKAR500/SANSKAR500/main/profile/stats.svg" alt="GitHub stats" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/SANSKAR500/SANSKAR500/main/profile/top-langs.svg" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANSKAR500&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="95%" alt="Contribution activity" />
+
+<br/><br/>
 
 <table width="95%">
 <tr>
@@ -255,7 +288,6 @@
 </tr>
 </table>
 
-<p><sub>Analytics highlights are intentionally based on the projects and repository content in this profile rather than stale third-party counters.</sub></p>
 </div>
 
 <br/>
@@ -284,11 +316,11 @@
     2022 ──────────────────────────────────────────────► 2026
            │                                              │
            │  🎓 B.Tech in Computer Science & Engineering  │
-           │    Chandigarh University                     │
+           │    Chandigarh University · Graduated 2026    │
            │                                              │
            │  🔬 Research: Cybersecurity                  │
            │                                              │
-    Present│  📊 Building data & automation projects       │
+    Now    │  📊 Building data & automation projects      │
 ```
 
 </div>
