@@ -275,7 +275,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANSKAR500&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="95%" alt="Contribution activity" />
+<img src="https://raw.githubusercontent.com/SANSKAR500/SANSKAR500/main/profile/contrib.svg" width="100%" alt="Contribution activity" />
 
 <br/><br/>
 
