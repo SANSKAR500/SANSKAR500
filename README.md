@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=720&lines=Turning+Raw+Data+Into+Business+Gold;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+Wizardry;Dashboards+That+Make+CEOs+Smile;From+Spreadsheets+To+Strategies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=720&lines=Data+Analyst;BI+Developer;Python+Developer;Software+Engineer;Turning+Raw+Data+Into+Business+Gold;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+Wizardry;Dashboards+That+Make+CEOs+Smile;From+Spreadsheets+To+Strategies" />
 
 <br/><br/>
 
@@ -32,7 +32,8 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │  👤 Sanskar Srivastava                                      │
-│  🎯 Data Analyst | Business Analyst | Power BI Developer    │
+│  🎯 Data Analyst · BI Developer                             │
+│  🐍 Python Developer · Software Engineer                    │
 │  🎓 B.Tech CSE — Chandigarh University (Graduated 2026)     │
 │  💼 Open to Data Analyst roles                              │
 │  📍 India                                                   │
@@ -42,6 +43,37 @@
 │      Great decisions come from great stories."              │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+<br/>
+
+## 🧭 What I Do
+
+<div align="center">
+<table width="95%">
+<tr>
+<td width="25%" valign="top" align="center">
+<h3>📊 Data Analyst</h3>
+<p>Turn messy data into KPIs, trends and clear recommendations.</p>
+<p><code>SQL</code> <code>Excel</code> <code>Pandas</code> <code>EDA</code></p>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>📈 BI Developer</h3>
+<p>Build Power BI dashboards and data models that people actually use.</p>
+<p><code>Power BI</code> <code>DAX</code> <code>Power Query</code></p>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>🐍 Python Developer</h3>
+<p>Clean, automate and analyse data with reusable Python code and apps.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>scikit-learn</code></p>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>💻 Software Engineer</h3>
+<p>Ship end-to-end tools, pipelines and web apps, from backend to UI.</p>
+<p><code>Java</code> <code>JavaScript</code> <code>MySQL</code> <code>n8n</code></p>
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
